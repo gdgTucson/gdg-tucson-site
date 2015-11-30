@@ -29,6 +29,17 @@ paper-button {
   width: 100%;
 }
 
+paper-card {
+  margin: 2em 2em 2em 4em;
+  height: 35%;
+  width: 35%;
+}
+
+image {
+  height: 400px
+  width: 400px;
+}
+
 ul{
   list-style-type: none;
 }
